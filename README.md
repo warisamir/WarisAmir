@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=0e75b6&style=flat" alt="warisamir" /> </p>
 
-- 🔭 I’m currently working on [data science](https://github.com/warisamir/ml-project)
+- 🔭 I’m currently working on [React](https://github.com/warisamir/projects)
 
 - 🌱 I’m currently learning **react, angular**
 
