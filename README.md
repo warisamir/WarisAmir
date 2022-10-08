@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [React](https://github.com/warisamir/projects)
 
-- 🌱 I’m currently learning **react, angular**
+- 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **java ,python,javascript**
+- 💬 Ask me about **java ,javascript**
 
 - 📫 How to reach me **warisamir1918@gmail.com**
 
