@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=0e75b6&style=flat" alt="warisamir" /> </p>
 
-- 🔭 I’m currently working on [React](https://github.com/warisamir/projects)
+- 🔭 I’m currently working on [Project](https://github.com/warisamir/projects)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **java ,javascript**
 
