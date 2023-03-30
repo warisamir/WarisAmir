@@ -12,6 +12,7 @@
 - 📫 How to reach me **warisamir1918@gmail.com**
 
 - ⚡ Fun fact **past cant be ignored**
+- want to  see my [credentials](https://github.com/warisamir/certification)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
