@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Project](https://github.com/warisamir/Projects2)
 
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **java ,javascript**
 
