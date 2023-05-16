@@ -34,19 +34,19 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhcs01&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warisamir&theme=github"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubhcs01&show_icons=true&theme=github" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhcs01&theme=github" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=warisamir&theme=github" />
 </p>
 
-[![Shubhcs01's GitHub | Stats](https://stats.quine.sh/Shubhcs01/github?theme=light)](https://quine.sh)
+[![Shubhcs01's GitHub | Stats](https://stats.quine.sh/warisamir/github?theme=light)](https://quine.sh)
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="Shubham' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="warisamir' profile views" />
 </p>
 ---
 
