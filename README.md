@@ -42,6 +42,6 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Shubhcs01&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="warisamir' profile views" />
+  <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="warisamir' profile views" />
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warisamir&" alt="warisamir" /></p>
