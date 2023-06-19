@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning **AWS Cloud**
 
 - 💬 Ask me about **java ,javascript**
-
-- 📫 How to reach me **warisamir1918@gmail.com**
-
+- - 📫 How to reach me **warisamir1918@gmail.com**
+ 
+- Link to my [Portfolio](https://portfolio-warisamir.vercel.app/) 
 - ⚡ Fun fact **past cant be ignored**
 - want to  see my [credentials](https://github.com/warisamir/certification)
 
