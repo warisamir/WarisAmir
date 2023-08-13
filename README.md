@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/waris-amir-0387461b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waris-amir-0387461b3/" height="30" width="40" /></a>
-<a href="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks/" target="blank"><img align="center" src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks/" height="30" /></a>
+<a href="https://www.linkedin.com/in/waris-amir-0387461b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/warisamir1918/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waris-amir-0387461b3/" height="30" width="40" /></a>
+<a href="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks/" target="blank"><img align="center" src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks/" height="30" width="40"/></a>
 <a href="https://kaggle.com/waris amir ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="waris amir ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/rockhardy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rockhardy19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/warisamir1918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="warisamir1918" height="30" width="40" /></a>
