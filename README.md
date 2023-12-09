@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Project](https://github.com/warisamir/Projects2)
 
-- 🌱 I’m currently learning **AWS Cloud**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **java ,javascript**
 - - 📫 How to reach me **warisamir1918@gmail.com**
