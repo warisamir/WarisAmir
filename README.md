@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waris Amir</h1>
 <h3 align="center">An aspiring Mern Stack developer from India</h3>
-![](https://komarev.com/ghpvc/?username="warisamir")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=green" alt="Profile-view"/></p>
 
 - 🔭 I’m currently working on [Project](https://github.com/warisamir/Projects2)
 
