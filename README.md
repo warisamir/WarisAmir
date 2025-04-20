@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go lang**
 
-- 💬 Ask me about **java ,javascript**
+- 💬 Ask me about **java ,javascript, typescript , Docker ,GCP ,AWS**
 - - 📫 How to reach me **warisamir1918@gmail.com**
  
 - Link to my [Portfolio](https://portfolio-git-main-warisamirs-projects.vercel.app/) 
