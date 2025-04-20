@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Mern Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=green" alt="Profile-view"/></p>
 
-- 🔭 I’m currently Looking out for remote opportunities [Project](https://github.com/warisamir/Projects2)
+- 🔭 I’m currently Looking out for remote opportunities [Projects](https://github.com/warisamir/projectlinks)
 
 - 🌱 I’m currently learning **Go lang**
 
