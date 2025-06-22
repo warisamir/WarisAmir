@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Looking out for remote opportunities [Projects](https://github.com/warisamir/projectlinks)
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **java ,javascript, typescript , Docker ,GCP ,AWS ,Python FastAPI**
 - - 📫 How to reach me **warisamir1918@gmail.com**
