@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waris Amir</h1>
-<h3 align="center">An aspiring Mern Stack developer from India</h3>
+<h3 align="center">An aspiring Backend developer from India also having full Stack Experience</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=green" alt="Profile-view"/></p>
 
 - 🔭 I’m currently Looking out for remote opportunities [Projects](https://github.com/warisamir/projectlinks)
