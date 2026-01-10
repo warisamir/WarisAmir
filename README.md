@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **java ,javascript, typescript , Docker ,GCP ,AWS ,Python FastAPI**
+- 💬 Ask me about **java ,javascript, typescript , Docker ,GCP ,AWS **
 - - 📫 How to reach me **warisamir1918@gmail.com**
  
 - Link to my [Portfolio](https://portfolio-git-main-warisamirs-projects.vercel.app/) 
