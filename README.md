@@ -29,8 +29,9 @@
 #### 🗄️ Databases
 `MySQL` `MongoDB`
 
-#### ☁️ DevOps & Cloud
-`Docker` `AWS` `GCP` `Firebase` `CI/CD`
+#### ☁️ DevOps, Cloud & Observability
+`Docker` `Kubernetes (K8s)` `AWS` `GCP`  
+`Grafana` `Kibana` `CI/CD` `Firebase`
 
 ---
 
