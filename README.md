@@ -70,14 +70,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Coding Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=warisamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img width="48%" src="https://streak-stats.demolab.com/?user=warisamir&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=warisamir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <a href="https://github.com/warisamir?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-121-1A56A0?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://img.shields.io/badge/LeetCode-1000%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode%20Rank-763%20%2F%2030K%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC%202023-Top%2050%20Mentor-28A745?style=for-the-badge"/>
 </p>
 
 ---
