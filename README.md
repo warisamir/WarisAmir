@@ -1,79 +1,96 @@
-<h1 align="center">Hi 👋, I'm Waris Amir</h1>
-<h3 align="center">Backend Engineer | Java • Spring Boot • Scalable Systems</h3>
+<h1 align="center">Waris Amir</h1>
+<h3 align="center">Java Backend Engineer · Spring Boot · Microservices · Distributed Systems</h3>
+<p align="center">
+  <b>Associate Software Engineer @ CrashPlan, Bangalore</b><br/>
+  Building distributed backup systems at scale · Open to Backend / Full Stack roles
+</p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=warisamir">
-    <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile%20views&color=blue" alt="profile views"/>
-  </a>
+  <a href="https://linkedin.com/in/waris-amir-0387461b3"><img src="https://skillicons.dev/icons?i=linkedin" height="28"/></a>
+  <a href="https://portfolio-git-main-warisamirs-projects.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="28"/></a>
+  <a href="https://www.leetcode.com/warisamir19/"><img src="https://skillicons.dev/icons?i=leetcode" height="28"/></a>
+  <a href="mailto:warisamir085@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28"/></a>
+  <img src="https://komarev.com/ghpvc/?username=warisamir&label=Profile+views&color=1A56A0&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building **scalable backend systems & APIs**
-- 💼 Open to **Backend / Full Stack roles (Remote / India)**
-- 🌱 Learning **Spring Boot, System Design & Distributed Systems**
-- ⚡ Strong in **Java, Node.js, REST APIs, Docker, Cloud (AWS/GCP)**
-- 🧠 Focused on writing **clean, production-ready code**
+### 👨‍💻 About Me
+
+- 🏢 Currently at **CrashPlan, Bangalore** — building distributed backup services (Spring Boot, Kafka, Redis, MongoDB, AWS)
+- 🔧 Core skills: **Java, Spring Boot, Microservices, REST APIs, Distributed Systems**
+- 🌐 Full-stack capable: **React.js, Node.js, TypeScript**
+- ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, ELK**
+- 🧠 Strong DSA: **LeetCode 763 / 30K+ · 1,000+ problems solved**
+- 📍 Bangalore, India · Open to onsite & remote roles
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Backend
-`Java` `Spring Boot` `Node.js` `Express.js` `FastAPI`
+#### Backend
+![Java](https://skillicons.dev/icons?i=java&theme=light)
+![Spring](https://skillicons.dev/icons?i=spring&theme=light)
+![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)
+![Python](https://skillicons.dev/icons?i=python&theme=light)
 
-#### 🌐 Frontend
-`React.js` `TypeScript` `JavaScript` `Tailwind CSS`
+`Spring Boot` `Spring Security` `Hibernate` `Microservices` `REST APIs` `Kafka` `Redis` `JUnit` `Mockito`
 
-#### 🗄️ Databases
-`MySQL` `MongoDB`
+#### Frontend
+![React](https://skillicons.dev/icons?i=react&theme=light)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=light)
 
-#### ☁️ DevOps, Cloud & Observability
-`Docker` `Kubernetes (K8s)` `AWS` `GCP`  
-`Grafana` `Kibana` `CI/CD` `Firebase`
+#### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=light)
+![Redis](https://skillicons.dev/icons?i=redis&theme=light)
+
+#### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws&theme=light)
+![Docker](https://skillicons.dev/icons?i=docker&theme=light)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=light)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light)
+![GCP](https://skillicons.dev/icons?i=gcp&theme=light)
+
+`Prometheus` `Grafana` `Logstash` `Kibana (ELK)`
 
 ---
 
-### 📌 Featured Work
-- 🔹 [AI Website Generator Backend](https://github.com/warisamir/AI-website-generator-backend)  
-  → Built scalable backend for AI-based website generation
+### 🚀 Featured Projects
 
-- 🔹 [Project Collection](https://github.com/warisamir/projectlinks)  
-  → Full-stack apps with real-time features, auth, and cloud deployment
-
----
-
-### 🌐 Portfolio & Links
-- 💼 Portfolio: https://portfolio-git-main-warisamirs-projects.vercel.app/
-- 📜 Certifications: https://github.com/warisamir/certification
-- 📧 Email: **warisamir1918@gmail.com**
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/waris-amir"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-<a href="https://twitter.com/waris10525959"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-<a href="https://www.hackerrank.com/warisamir1918"><img src="https://skillicons.dev/icons?i=hackerrank" height="30"/></a>
-<a href="https://www.leetcode.com/warisamir1918"><img src="https://skillicons.dev/icons?i=leetcode" height="30"/></a>
-</p>
+| Project | Stack | Live |
+|---|---|---|
+| [**NearPharma API**](https://github.com/warisamir/NearPharmaViaSpringboot) | Spring Boot · PostgreSQL · Docker · RapidAPI | — |
+| [**Fitness Microservices**](https://github.com/warisamir/FitnessApiViaSpringboot) | Spring Cloud · Eureka · API Gateway · Config Server | — |
+| [**Real-Time Chat App**](https://github.com/warisamir/clientserver) | React · Node.js · Socket.io · WebRTC | [▶ Live Demo](https://discord-ak-clone.netlify.app/) |
+| [**AI Website Generator**](https://github.com/warisamir/AI-website-generator-backend) | Spring Boot · Docker · PostgreSQL · MinIO · Grafana | — |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=warisamir&show_icons=true&theme=tokyonight" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=warisamir&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=warisamir&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=warisamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=warisamir&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=warisamir&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 **LeetCode** — Ranked 763 / 30,000+ in Biweekly Contest · 1,000+ problems solved
+- 🌟 **GSSoC 2023** — Top 50 Mentor & Project Admin out of 100,000+ participants · 10+ merged PRs
+
+---
+
 ### 🐍 Contribution Graph
+
 <p align="center">
   <img src="https://github.com/warisamir/WarisAmir/blob/main/snakegame.svg"/>
 </p>
