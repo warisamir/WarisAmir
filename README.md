@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 Currently at **CrashPlan, Bangalore** — building distributed backup services (Spring Boot, Kafka, Redis, MongoDB, AWS)
-- 🔧 Core skills: **Java, Spring Boot, Microservices, REST APIs, Distributed Systems**
+- 💼 Previously Associate Software Engineer at CrashPlan, building distributed backup systems using Java, Spring Boot, Kafka, Redis,   MongoDB and AWS
+- 🔍 Currently open to Backend and Full Stack Software Engineer opportunities- 🔧 Core skills: **Java, Spring Boot, Microservices,     REST APIs, Distributed Systems**
 - 🌐 Full-stack capable: **React.js, Node.js, TypeScript**
 - ☁️ Cloud & DevOps: **AWS, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, ELK**
 - 🧠 Strong DSA: **LeetCode 763 / 30K+ · 1,000+ problems solved**
