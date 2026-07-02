@@ -64,10 +64,10 @@
 
 | Project | Stack | Live |
 |---|---|---|
-| [**NearPharma API**](https://github.com/warisamir/NearPharmaViaSpringboot) | Spring Boot · PostgreSQL · Docker · RapidAPI | — |
+| [**NearPharma API**](https://github.com/warisamir/NearPharmaViaSpringboot) | Spring Boot · PostgreSQL · Docker · RapidAPI | [▶ Live Demo] (https://near-pharma-via-springboot.vercel.app/) |
 | [**Fitness Microservices**](https://github.com/warisamir/FitnessApiViaSpringboot) | Spring Cloud · Eureka · API Gateway · Config Server | — |
 | [**Real-Time Chat App**](https://github.com/warisamir/clientserver) | React · Node.js · Socket.io · WebRTC | [▶ Live Demo](https://discord-ak-clone.netlify.app/) |
-| [**AI Website Generator**](https://github.com/warisamir/AI-website-generator-backend) | Spring Boot · Docker · PostgreSQL · MinIO · Grafana | — |
+| [**AI Website Generator**](https://github.com/warisamir/AI-website-generator-backend) | Spring Boot · Docker · PostgreSQL · MinIO · Grafana | - |
 
 ---
 
