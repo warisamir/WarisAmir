@@ -1,8 +1,9 @@
 <h1 align="center">Waris Amir</h1>
-<h3 align="center">Java Backend Engineer · Spring Boot · Microservices · Distributed Systems</h3>
+<h3 align="center">Java Backend Engineer · Spring Boot · Distributed Systems</h3>
+
 <p align="center">
-  <b>Associate Software Engineer @ CrashPlan, Bangalore</b><br/>
-  Building distributed backup systems at scale · Open to Backend / Full Stack roles
+  <b>Previously Associate Software Engineer @ CrashPlan</b><br/>
+  Building distributed backend systems · Open to Backend / Full Stack opportunities
 </p>
 
 <p align="center">
